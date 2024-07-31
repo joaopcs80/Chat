@@ -22,3 +22,6 @@ build/
 
 # Ignore firebase.json
 firebase.json
+
+# Ignorar o arquivo firebase_options.dart na pasta lib
+lib/firebase_options.dart
